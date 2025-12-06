@@ -100,7 +100,16 @@
                     </g>
                 </g>
                 <g id="REA012832F-2.jpg" transform="matrix(0.571632,0,0,0.571632,2454.34966,19.315215)">
-                    <use xlink:href="#_Image5" x="0" y="0" width="1000px" height="800px" opacity="0.2"/>
+                    <defs>
+                        <mask id="Mask1">
+                        
+                            <g transform="matrix(1.749377,-0,-0,1.749377,-799.621921,76.83229)"><image id="_Image6" width="1212px" height="306px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLwAAAEyCAAAAADVNpbpAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAEkElEQVR4nO3YwUkdUQCG0TvhuTC4EVy4SgmSAtKDbZjiLMISBJsQQckigUD0WUMcmevnO2c/8MMwH3Pvsh98Cuf3sxfApr7MHgDwFuIFJIkXkCReQJJ4AUniBSSJF5AkXkCSeAFJ4gUkiReQJF5AkngBSeIFJIkXkCReQJJ4AUniBSSJF5AkXkCSeAFJ4gUkiReQJF5AkngBSeIFJIkXkCReQJJ4AUniBSSJF5AkXkCSeAFJ4gUkiReQJF5AkngBSeIFJIkXkCReQJJ4AUniBSSJF5AkXkCSeAFJ4gUkiReQJF5AkngBSeIFJIkXkCReQJJ4AUniBSSJF5AkXkCSeAFJ4gUkiReQJF5AkngBSeIFJIkXkCReQJJ4AUniBSSJF5AkXkCSeAFJ4gUkiReQJF5AkngBSeIFJIkXkCReQJJ4AUniBSSJF5AkXkCSeAFJ4gUkiReQJF5AkngBSeIFJIkXkCReQJJ4AUniBSSJF5AkXkCSeAFJ4gUkiReQJF5AkngBSeIFJIkXkCReQJJ4AUniBSSJF5AkXkCSeAFJ4gUkiReQJF5AkngBSeIFJIkXkLSbPYAP4PTH12X2BtZ4vPk7e8L2xIsxLq9OZk9gld8/b59nb9iceDHG94vj2RNY59vd4cXLnRdj7Bwa645mD5hAvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvxnh8mb2AlZ4O8BXuZg/gA7j+dzJ7Aqs83T3PnrC9ZT97Ae/j/P7tzy5nu+X9lrC9P78O8EP258UY+4fZC+C/ufMCksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8gSbyAJPECksQLSBIvIEm8gCTxApLEC0gSLyBJvIAk8QKSxAtIEi8g6RWZMxz0e6PfFwAAAABJRU5ErkJggg=="/>
+                            </g>
+                        </mask>
+                    </defs>
+                    <g opacity="0.2" mask="url(#Mask1)">
+                        <use xlink:href="#_Image5" x="0" y="0" width="1000px" height="800px"/>
+                    </g>
                 </g>
             </g>
             <g id="Rotary-encoder" serif:id="Rotary encoder" transform="matrix(1.44277,0,0,1.240738,-887.192398,-501.561256)">
